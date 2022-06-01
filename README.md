@@ -1,7 +1,6 @@
 Hi 👋 My name is Akshay Bala
 ============================
 
-Aspiring Data Scientist
 -----------------------
 
 I am an open source enthusiast and currently pursuing my Masters in Computer Application.
