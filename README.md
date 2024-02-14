@@ -7,7 +7,6 @@ I am an open source enthusiast and currently pursuing my Masters in Computer App
 
 * 🌍  I'm based in New Delhi
 * ✉️  You can contact me at [akshaywork20@gmail.com](mailto:akshaywork20@gmail.com)
-* 🧠  I'm learning Java from @kunal-kushwaha
 
 ### Skills
 
